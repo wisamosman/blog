@@ -7,3 +7,22 @@ h1{
 font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
 }
+.card{
+    background-color :wheat;
+}
+p{color: white;
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+h5{color: white;
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif; 
+}
+h6[
+    
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+]
